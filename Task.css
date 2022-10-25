@@ -759,6 +759,7 @@ input {
 
 .form label {
     color: gray;
+    font-size: 13px;
 }
 
 .f-icons {
